@@ -44,6 +44,6 @@ flutter run --no-sound-null-safety
 https://drive.google.com/file/d/1i_Dm_eXdroLNH9w6JpqYYo0V-EGOPBqv/view?usp=sharing
 
 ## Screenshots:
+<img src="[drawing.jpg](https://github.com/Yogesh-03/weather_app/assets/99140862/4d6acfea-b90a-459c-b1b4-c913203232d6)" alt="drawing" width="200" height="600"/>
+<img src="[drawing.jpg](https://github.com/Yogesh-03/weather_app/assets/99140862/1aef188e-b1b1-4919-a171-a13012d75227)" alt="drawing" width="200" height="600"/>
 
-![WhatsApp Image 2024-01-08 at 13 46 44_cbcff97f](https://github.com/Yogesh-03/weather_app/assets/99140862/4d6acfea-b90a-459c-b1b4-c913203232d6)
-![WhatsApp Image 2024-01-08 at 13 46 45_d9a7f2e8](https://github.com/Yogesh-03/weather_app/assets/99140862/1aef188e-b1b1-4919-a171-a13012d75227)
