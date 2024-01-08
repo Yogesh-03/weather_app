@@ -36,12 +36,12 @@ If the code shows no sound null safety error, run the below code:
 flutter run --no-sound-null-safety
 ```
 If the code still do not run
-Step 6:
+Step 4:
 
 ```
 flutter clean
 ```
-Step 7:
+Step 5:
 ```
 flutter upgrade
 ```
