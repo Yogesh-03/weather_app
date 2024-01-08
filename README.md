@@ -41,4 +41,4 @@ flutter run --no-sound-null-safety
 ```
 
 ## Video:
-[![Watch the video]]([https://youtu.be/T-D1KVIuvjA](https://drive.google.com/file/d/1i_Dm_eXdroLNH9w6JpqYYo0V-EGOPBqv/view?usp=sharing)https://drive.google.com/file/d/1i_Dm_eXdroLNH9w6JpqYYo0V-EGOPBqv/view?usp=sharing)
+https://drive.google.com/file/d/1i_Dm_eXdroLNH9w6JpqYYo0V-EGOPBqv/view?usp=sharing
