@@ -2,7 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+## Overview
+
+A weather application which shows current and forecast weater.
+
+## Built Using
+
+- [Flutter:](https://docs.flutter.dev/get-started/codelab)
+- [Dart:](https://dart.dev/)
 
 This project is a starting point for a Flutter application.
 
