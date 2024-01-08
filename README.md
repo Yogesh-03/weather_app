@@ -11,6 +11,14 @@ A weather application which shows current and forecast weater.
 - [Flutter:](https://docs.flutter.dev/get-started/codelab) Flutter documentation
 - [Dart:](https://dart.dev/) Dart documentation
 
+## How to Use:
+Step 1:
+Download or clone this repository by using the link below:
+```
+function test() {
+  console.log("This code will have a copy button to the right of it");
+}
+```
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
