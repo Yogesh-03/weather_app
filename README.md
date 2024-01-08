@@ -8,8 +8,8 @@ A weather application which shows current and forecast weater.
 
 ## Built Using
 
-- [Flutter:](https://docs.flutter.dev/get-started/codelab)
-- [Dart:](https://dart.dev/)
+- [Flutter:](https://docs.flutter.dev/get-started/codelab) Flutter documentation
+- [Dart:](https://dart.dev/) Dart documentation
 
 This project is a starting point for a Flutter application.
 
